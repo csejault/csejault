@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Clément
 
-<!--
-**csejault/csejault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps freelancer. I studied at [42 Paris](https://42.fr/en/homepage/) and [ENI école in Nantes](https://www.eni-ecole.fr/).
 
-Here are some ideas to get you started:
+## Expertise
+I have expertise in :  
+**- Terraform**  
+**- Ansible**  
+**- Docker**  
+**- Github Actions**  
+**- Openstack**  
+**- Linux**  
+**- C/C++**  
+**- Python**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's meet !
+Please feel free to reach out if you have any questions or if you're interested in working together. You can contact me at [pro.clement.sejault@outlook.fr](mailto:pro.clement.sejault@outlook.fr) or connect with me on [LinkedIn](https://www.linkedin.com/in/sejault). :)
